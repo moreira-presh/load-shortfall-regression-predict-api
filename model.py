@@ -56,7 +56,7 @@ def _preprocess_data(data):
        'Bilbao_snow_3h', 'Barcelona_pressure', 'Seville_rain_3h',
        'Madrid_rain_1h', 'Barcelona_rain_3h', 'Valencia_snow_3h',
        'Madrid_weather_id', 'Barcelona_weather_id', 'Bilbao_pressure',
-       'Seville_weather_id', 'Valencia_pressure', 'Seville_temp_max',
+       'Seville_weather_id', 'Seville_temp_max',
        'Madrid_pressure', 'Valencia_temp_max', 'Valencia_temp',
        'Bilbao_weather_id', 'Seville_temp', 'Valencia_humidity',
        'Valencia_temp_min', 'Barcelona_temp_max', 'Madrid_temp_max',
